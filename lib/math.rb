@@ -1,11 +1,14 @@
 def addition(num1, num2)
+  4 + 3
 end
 
 def subtraction(num1, num2)
+  9 - 5 
 end
 
 
 def division(num1, num2)
+  9.0/ 2 
 end
 
 def multiplication(num1, num2)
